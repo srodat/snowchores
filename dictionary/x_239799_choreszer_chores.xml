@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Chores" max_length="40" name="x_239799_choreszer_chores" sizeclass="6" type="collection">
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="category" reference="x_239799_choreszer_choretypes" type="reference">
+            <choice/>
+        </element>
+    </element>
+</database>

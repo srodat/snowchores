@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="0f7f7ca94f32130087f6045e9310c716" sys_domain="global" table="x_239799_choreszer_choretypes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-19 11:45:55</sys_created_on>
+            <sys_id>cf7ffca94f32130087f6045e9310c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_239799_choreszer_choretypes" sys_domain="global" view="Default view">0f7f7ca94f32130087f6045e9310c716</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-19 11:45:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_239799_choreszer_choretypes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-19 11:45:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f7f7ca94f32130087f6045e9310c716</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_239799_choreszer_choretypes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ChoresZero" source="x_239799_choreszer">7f4d38214f32130087f6045e9310c7ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ChoresZero">7f4d38214f32130087f6045e9310c7ed</sys_scope>
+            <sys_update_name>sys_ui_section_0f7f7ca94f32130087f6045e9310c716</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-19 11:45:55</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

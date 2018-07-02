@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_239799_choreszer.choretypes_user" name="x_239799_choreszer.choretypes_user">9d1f38a94f32130087f6045e9310c7bb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-19 11:44:10</sys_created_on>
+        <sys_id>991f38a94f32130087f6045e9310c7bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9d1f38a94f32130087f6045e9310c7bb</sys_name>
+        <sys_package display_value="ChoresZero" source="x_239799_choreszer">7f4d38214f32130087f6045e9310c7ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChoresZero">7f4d38214f32130087f6045e9310c7ed</sys_scope>
+        <sys_update_name>sys_embedded_help_role_991f38a94f32130087f6045e9310c7bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-19 11:44:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

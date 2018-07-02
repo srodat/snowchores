@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ChoreCategory" max_length="40" name="x_239799_choreszer_choretypes" type="collection">
+        <element display="true" label="Category" mandatory="true" max_length="40" name="category" type="string"/>
+    </element>
+</database>
